@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_record" value="name:id;datatype:int,name:name;datatype:string,name:sex;datatype:string,name:phone;datatype:string,name:cellphone;datatype:string,name:traffic;datatype:string,name:license;datatype:string,name:address;datatype:string,name:age;datatype:string,name:job;datatype:string,name:worktime;datatype:string,name:timeStart;datatype:string,name:timeEnd;datatype:string,name:workyears;datatype:string,name:workwhere;datatype:blob,name:years;datatype:string,name:recruited;datatype:string,name:date;datatype:date,name:amendDate;datatype:date,name:ps;datatype:blob,name:callPs;datatype:blob" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_sale_mail" value="name:id;datatype:int,name:creatdate;datatype:string,name:who;datatype:string,name:froms;datatype:string,name:date;datatype:string,name:company;datatype:string,name:contactP;datatype:string,name:phone;datatype:string,name:cellPhone;datatype:string,name:service;datatype:string,name:contents;datatype:blob,name:address;datatype:string,name:send_who;datatype:string,name:replayP;datatype:string,name:repalyDate;datatype:string,name:replayPs;datatype:blob,name:viewP;datatype:string,name:viewDate;datatype:string,name:viewPs;datatype:blob" />
+	<infoitem key="UD_mail_name" value="name:user_id;datatype:int,name:name;datatype:string,name:user_account;datatype:string,name:password;datatype:string,name:email;datatype:string,name:admin;datatype:string,name:index_day;datatype:int,name:page_day;datatype:int,name:view_day;datatype:int" />
+</info>
